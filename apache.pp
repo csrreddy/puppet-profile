@@ -10,3 +10,4 @@ class profile::apache(
   port => $port,
   docroot => $docroot,
 }
+}
